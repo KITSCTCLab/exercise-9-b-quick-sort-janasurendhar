@@ -1,4 +1,4 @@
-from typing import List
+ from typing import List
 
 def quick_sort(data, low, high) -> List[int]:
     # Write code here
